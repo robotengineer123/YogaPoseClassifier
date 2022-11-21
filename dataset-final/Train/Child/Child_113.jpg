@@ -1,0 +1,1072 @@
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Online &#8211; Bodhi Yoga™</title>
+<meta name='robots' content='max-image-preview:large' />
+<meta name="viewport" content="width=device-width, initial-scale=1"><link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Bodhi Yoga™ &raquo; Feed" href="https://gobodhiyoga.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Bodhi Yoga™ &raquo; Comments Feed" href="https://gobodhiyoga.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/gobodhiyoga.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://gobodhiyoga.com/wp-content/plugins/gutenberg/build/block-library/style.css?ver=14.3.0' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://gobodhiyoga.com/wp-content/plugins/gutenberg/build/block-library/theme.css?ver=14.3.0' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://c0.wp.com/c/6.0.3/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://c0.wp.com/c/6.0.3/wp-includes/js/mediaelement/wp-mediaelement.min.css' media='all' />
+<link rel='stylesheet' id='ogb-block-style-css'  href='https://gobodhiyoga.com/wp-content/plugins/ocean-gutenberg-blocks/dist/style-index.css?ver=1653474850' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://gobodhiyoga.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+</style>
+<link rel='stylesheet' id='classic-theme-styles-css'  href='https://gobodhiyoga.com/wp-content/plugins/gutenberg/build/block-library/classic.css?ver=1' media='all' />
+<link rel='stylesheet' id='learndash_quiz_front_css-css'  href='//gobodhiyoga.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_quiz_front.min.css?ver=4.3.0.2' media='all' />
+<link rel='stylesheet' id='jquery-dropdown-css-css'  href='//gobodhiyoga.com/wp-content/plugins/sfwd-lms/assets/css/jquery.dropdown.min.css?ver=4.3.0.2' media='all' />
+<link rel='stylesheet' id='learndash_lesson_video-css'  href='//gobodhiyoga.com/wp-content/plugins/sfwd-lms/themes/legacy/templates/learndash_lesson_video.min.css?ver=4.3.0.2' media='all' />
+<link rel='stylesheet' id='ce_responsive-css'  href='https://gobodhiyoga.com/wp-content/plugins/simple-embed-code/css/video-container.min.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='https://gobodhiyoga.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://gobodhiyoga.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.7.8' media='all' />
+<link rel='stylesheet' id='elementor-post-16932-css'  href='https://gobodhiyoga.com/wp-content/uploads/elementor/css/post-16932.css?ver=1666206526' media='all' />
+<link rel='stylesheet' id='oceanwp-learndash-css'  href='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/css/learndash/learndash.min.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1' media='all' />
+<link rel='stylesheet' id='simple-line-icons-css'  href='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0' media='all' />
+<link rel='stylesheet' id='oceanwp-style-css'  href='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=3.3.5' media='all' />
+<link rel='stylesheet' id='oceanwp-google-font-open-sans-css'  href='https://gobodhiyoga.com/wp-content/uploads/oceanwp-webfonts-css/54e4dbec225310932e45306345a8c89d.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='learndash-front-css'  href='//gobodhiyoga.com/wp-content/plugins/sfwd-lms/themes/ld30/assets/css/learndash.min.css?ver=4.3.0.2' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://gobodhiyoga.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0' media='all' />
+<link rel='stylesheet' id='elementor-post-10168-css'  href='https://gobodhiyoga.com/wp-content/uploads/elementor/css/post-10168.css?ver=1664748442' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://gobodhiyoga.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.7.7' media='all' />
+<link rel='stylesheet' id='elementor-post-17568-css'  href='https://gobodhiyoga.com/wp-content/uploads/elementor/css/post-17568.css?ver=1664748443' media='all' />
+<link rel='stylesheet' id='oe-widgets-style-css'  href='https://gobodhiyoga.com/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='oss-social-share-style-css'  href='https://gobodhiyoga.com/wp-content/plugins/ocean-social-sharing/assets/css/style.min.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='ocean-cookie-notice-css'  href='https://gobodhiyoga.com/wp-content/plugins/ocean-cookie-notice/assets/css/style.min.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='ogb-style-css'  href='https://gobodhiyoga.com/wp-content/plugins/ocean-gutenberg-blocks/assets/css/ogb-style.min.css?ver=1.1.1' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://gobodhiyoga.com/wp-content/plugins/ocean-gutenberg-blocks/assets/fonts/fontawesome/css/all.min.css?ver=1.1.1' media='all' />
+<link rel='stylesheet' id='op-photoswipe-css'  href='https://gobodhiyoga.com/wp-content/plugins/ocean-portfolio/assets/vendors/PhotoSwipe/photoswipe.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='op-photoswipe-default-skin-css'  href='https://gobodhiyoga.com/wp-content/plugins/ocean-portfolio/assets/vendors/PhotoSwipe/default-skin/default-skin.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='op-style-css'  href='https://gobodhiyoga.com/wp-content/plugins/ocean-portfolio/assets/css/style.min.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='osh-styles-css'  href='https://gobodhiyoga.com/wp-content/plugins/ocean-sticky-header/assets/css/style.min.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.0.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://gobodhiyoga.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-regular-css'  href='https://gobodhiyoga.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://gobodhiyoga.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/11.4/css/jetpack.css' media='all' />
+<script src='https://c0.wp.com/c/6.0.3/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script src='https://c0.wp.com/c/6.0.3/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://gobodhiyoga.com/wp-json/" /><link rel="alternate" type="application/json" href="https://gobodhiyoga.com/wp-json/wp/v2/pages/17568" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gobodhiyoga.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://gobodhiyoga.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 6.0.3" />
+<link rel="canonical" href="https://gobodhiyoga.com/yoga/online/" />
+<link rel='shortlink' href='https://wp.me/P6WYNO-4zm' />
+<link rel="alternate" type="application/json+oembed" href="https://gobodhiyoga.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgobodhiyoga.com%2Fyoga%2Fonline%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://gobodhiyoga.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgobodhiyoga.com%2Fyoga%2Fonline%2F&#038;format=xml" />
+<script type="text/javascript">
+jQuery(document).ready(function($){
+    $('.am4-ajax-widget').each(function(){
+            $(this).load('https://gobodhiyoga.com/wp-admin/admin-ajax.php',
+            {
+                action: 'am4-show-widget',
+                id: $(this).attr('id')
+            });
+        });
+});
+</script><style type="text/css">.directmail_sf { display: block; } .directmail_sf table, .directmail_sf table td { border: none !important; } .directmail_sf td input[type=text], .directmail_sf td input[type=email] { width: 100%; box-sizing: border-box; }</style><script type="text/javascript">
+(function(){
+	var target = document;
+	var attacher = target.addEventListener;
+	var eventName = "load";
+	
+	if ( !attacher ) {
+		target = window;
+		attacher = target.attachEvent;
+		eventName = "onload";
+	}
+	
+	if ( attacher ) {
+		attacher.call( target, eventName, function() {
+			var input = document.createElement("input");
+
+			if ( !( "placeholder" in input ) && document.querySelectorAll ) {
+				var needLabels = document.querySelectorAll(".directmail_sf input[data-label]");
+
+				for ( var i = 0; i < needLabels.length; i++ ) {
+					var item = needLabels.item(i);
+					var label = document.createElement("label");
+
+					label.setAttribute( "for", item.getAttribute("id") );
+					label.innerText = item.getAttribute("data-label");
+					item.parentNode.insertBefore( label, item );
+					item.parentNode.insertBefore( document.createElement("br"), item );
+				}
+			}
+		}, false );
+	}
+})();
+</script>	<style id="wplmi-inline-css" type="text/css">
+ span.wplmi-user-avatar { width: 16px;display: inline-block !important;flex-shrink: 0; } img.wplmi-elementor-avatar { border-radius: 100%;margin-right: 3px; }
+</style>
+<style>img#wpstats{display:none}</style>
+	
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Online" />
+<meta property="og:url" content="https://gobodhiyoga.com/yoga/online/" />
+<meta property="og:description" content="Bodhi Yoga Online Classes Previous Next Our Vision is to create the space for a global yoga neighborhood community.  Our primary aim is for you to feel as at home in our online yoga classes, as you…" />
+<meta property="article:published_time" content="2021-10-29T17:22:30+00:00" />
+<meta property="article:modified_time" content="2022-09-17T01:32:00+00:00" />
+<meta property="og:site_name" content="Bodhi Yoga™" />
+<meta property="og:image" content="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2021/10/cropped-bodhiyoga-icon-gold.png?fit=512%2C512&#038;ssl=1" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="Online" />
+<meta name="twitter:image" content="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2021/10/cropped-bodhiyoga-icon-gold.png?fit=240%2C240&amp;ssl=1" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2021/10/cropped-bodhiyoga-icon-gold.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2021/10/cropped-bodhiyoga-icon-gold.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2021/10/cropped-bodhiyoga-icon-gold.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2021/10/cropped-bodhiyoga-icon-gold.png?fit=270%2C270&#038;ssl=1" />
+<style type="text/css" id="wp-custom-css">h4.widget-title{border:none;padding-left:0}.border{padding:5px 10px 5px 10px;border-style:solid;border-width:1px;border-color:#f5ecce}.add-remove-bottom-space{margin-bottom:10px}</style><!-- OceanWP CSS -->
+<style type="text/css">
+/* General CSS */.learndash a:hover,#learndash_lessons a:hover,#learndash_quizzes a:hover,.expand_collapse a:hover,.learndash_topic_dots a:hover,.learndash_topic_dots a:hover >span,#learndash_lesson_topics_list span a:hover,.learndash .completed:before,.learndash .notcompleted:before,#learndash_profile .completed:before,#learndash_profile .notcompleted:before,a:hover,a.light:hover,.theme-heading .text::before,.theme-heading .text::after,#top-bar-content >a:hover,#top-bar-social li.oceanwp-email a:hover,#site-navigation-wrap .dropdown-menu >li >a:hover,#site-header.medium-header #medium-searchform button:hover,.oceanwp-mobile-menu-icon a:hover,.blog-entry.post .blog-entry-header .entry-title a:hover,.blog-entry.post .blog-entry-readmore a:hover,.blog-entry.thumbnail-entry .blog-entry-category a,ul.meta li a:hover,.dropcap,.single nav.post-navigation .nav-links .title,body .related-post-title a:hover,body #wp-calendar caption,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .custom-links-widget .oceanwp-custom-links li a:hover,body .custom-links-widget .oceanwp-custom-links li a:hover:before,body .posts-thumbnails-widget li a:hover,body .social-widget li.oceanwp-email a:hover,.comment-author .comment-meta .comment-reply-link,#respond #cancel-comment-reply-link:hover,#footer-widgets .footer-box a:hover,#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover,.sidr a:hover,.sidr-class-dropdown-toggle:hover,.sidr-class-menu-item-has-children.active >a,.sidr-class-menu-item-has-children.active >a >.sidr-class-dropdown-toggle,input[type=checkbox]:checked:before{color:#c83b21}.single nav.post-navigation .nav-links .title .owp-icon use,.blog-entry.post .blog-entry-readmore a:hover .owp-icon use,body .contact-info-widget.default .owp-icon use,body .contact-info-widget.big-icons .owp-icon use{stroke:#c83b21}.learndash-button-action,#learndash_lessons #lesson_heading,#learndash_profile .learndash_profile_heading,#learndash_quizzes #quiz_heading,#learndash_lesson_topics_list div>strong,dd.course_progress div.course_progress_blue,body #ld_course_list .btn,input[type="button"],input[type="reset"],input[type="submit"],button[type="submit"],.button,#site-navigation-wrap .dropdown-menu >li.btn >a >span,.thumbnail:hover i,.post-quote-content,.omw-modal .omw-close-modal,body .contact-info-widget.big-icons li:hover i,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#c83b21}.thumbnail:hover .link-post-svg-icon{background-color:#c83b21}body .contact-info-widget.big-icons li:hover .owp-icon{background-color:#c83b21}.learndash-instructor-info .learndash-instructors .learndash-author{border-top-color:#c83b21}.learndash-notification{border-top-color:#c83b21}.learndash-instructor-info .learndash-instructors .learndash-author .avatar{border-color:#c83b21}.widget-title{border-color:#c83b21}blockquote{border-color:#c83b21}#searchform-dropdown{border-color:#c83b21}.dropdown-menu .sub-menu{border-color:#c83b21}.blog-entry.large-entry .blog-entry-readmore a:hover{border-color:#c83b21}.oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#c83b21}.social-widget li.oceanwp-email a:hover{border-color:#c83b21}#respond #cancel-comment-reply-link:hover{border-color:#c83b21}body .contact-info-widget.big-icons li:hover i{border-color:#c83b21}#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"]:focus{border-color:#c83b21}blockquote,.wp-block-quote{border-left-color:#c83b21}body .contact-info-widget.big-icons li:hover .owp-icon{border-color:#c83b21}.learndash-button-action:hover,body #ld_course_list .btn:hover,input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,button[type="submit"]:hover,input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,button[type="submit"]:focus,.button:hover,.button:focus,#site-navigation-wrap .dropdown-menu >li.btn >a:hover >span,.post-quote-author,.omw-modal .omw-close-modal:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover{background-color:#d35024}.learndash-sd-notification-center .learndash-notification,table th,table td,hr,.content-area,body.content-left-sidebar #content-wrap .content-area,.content-left-sidebar .content-area,#top-bar-wrap,#site-header,#site-header.top-header #search-toggle,.dropdown-menu ul li,.centered-minimal-page-header,.blog-entry.post,.blog-entry.grid-entry .blog-entry-inner,.blog-entry.thumbnail-entry .blog-entry-bottom,.single-post .entry-title,.single .entry-share-wrap .entry-share,.single .entry-share,.single .entry-share ul li a,.single nav.post-navigation,.single nav.post-navigation .nav-links .nav-previous,#author-bio,#author-bio .author-bio-avatar,#author-bio .author-bio-social li a,#related-posts,#comments,.comment-body,#respond #cancel-comment-reply-link,#blog-entries .type-page,.page-numbers a,.page-numbers span:not(.elementor-screen-only),.page-links span,body #wp-calendar caption,body #wp-calendar th,body #wp-calendar tbody,body .contact-info-widget.default i,body .contact-info-widget.big-icons i,body .posts-thumbnails-widget li,body .tagcloud a{border-color:#f7efd7}body .contact-info-widget.big-icons .owp-icon,body .contact-info-widget.default .owp-icon{border-color:#f7efd7}body{background-image:url(https://gobodhiyoga.com/wp-content/uploads/2021/10/bg-large.png)}body{background-position:top left}body{background-attachment:scroll}body{background-repeat:no-repeat}a{color:#d84024}a .owp-icon use{stroke:#d84024}a:hover{color:#cccccc}a:hover .owp-icon use{stroke:#cccccc}.boxed-layout #wrap,.boxed-layout .parallax-footer,.boxed-layout .owp-floating-bar{width:1080px}.page-header,.has-transparent-header .page-header{padding:25px 0 25px 0}.page-header .page-header-title,.page-header.background-image-page-header .page-header-title{color:#666666}#scroll-top{background-color:rgba(213,95,70,0.8)}#scroll-top:hover{background-color:rgba(189,68,43,0.8)}.theme-button,input[type="submit"],button[type="submit"],button,.button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{border-radius:5px}body .theme-button,body input[type="submit"],body button[type="submit"],body button,body .button,body div.wpforms-container-full .wpforms-form input[type=submit],body div.wpforms-container-full .wpforms-form button[type=submit],body div.wpforms-container-full .wpforms-form .wpforms-page-button{background-color:#d84024}body .theme-button:hover,body input[type="submit"]:hover,body button[type="submit"]:hover,body button:hover,body .button:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:hover,body div.wpforms-container-full .wpforms-form input[type=submit]:active,body div.wpforms-container-full .wpforms-form button[type=submit]:hover,body div.wpforms-container-full .wpforms-form button[type=submit]:active,body div.wpforms-container-full .wpforms-form .wpforms-page-button:hover,body div.wpforms-container-full .wpforms-form .wpforms-page-button:active{background-color:#cccccc}/* Header CSS */#site-logo #site-logo-inner,.oceanwp-social-menu .social-menu-inner,#site-header.full_screen-header .menu-bar-inner,.after-header-content .after-header-content-inner{height:90px}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,.mobile-menu-close,.after-header-content-inner >a{line-height:90px}#site-header.has-header-media .overlay-header-media{background-color:rgba(0,0,0,0.5)}#site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a,#searchform-header-replace-close{color:#000000}#site-navigation-wrap .dropdown-menu >li >a .owp-icon use,.oceanwp-mobile-menu-icon a .owp-icon use,#searchform-header-replace-close .owp-icon use{stroke:#000000}#site-navigation-wrap .dropdown-menu >li >a:hover,.oceanwp-mobile-menu-icon a:hover,#searchform-header-replace-close:hover{color:#d84024}#site-navigation-wrap .dropdown-menu >li >a:hover .owp-icon use,.oceanwp-mobile-menu-icon a:hover .owp-icon use,#searchform-header-replace-close:hover .owp-icon use{stroke:#d84024}#site-navigation-wrap .dropdown-menu >.current-menu-item >a,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a,#site-navigation-wrap .dropdown-menu >.current-menu-item >a:hover,#site-navigation-wrap .dropdown-menu >.current-menu-ancestor >a:hover{color:#999999}.dropdown-menu .sub-menu{min-width:220px}.dropdown-menu ul li a.menu-link{color:#000000}.dropdown-menu ul li a.menu-link .owp-icon use{stroke:#000000}.dropdown-menu ul li a.menu-link:hover{color:#d84024}.dropdown-menu ul li a.menu-link:hover .owp-icon use{stroke:#d84024}.oceanwp-social-menu ul li a,.oceanwp-social-menu .colored ul li a,.oceanwp-social-menu .minimal ul li a,.oceanwp-social-menu .dark ul li a{font-size:66px}.oceanwp-social-menu ul li a .owp-icon,.oceanwp-social-menu .colored ul li a .owp-icon,.oceanwp-social-menu .minimal ul li a .owp-icon,.oceanwp-social-menu .dark ul li a .owp-icon{width:66px;height:66px}/* Top Bar CSS */#top-bar-wrap,.oceanwp-top-bar-sticky{background-color:#d74124}#top-bar-wrap{border-color:#d74124}#top-bar-wrap,#top-bar-content strong{color:#ffffff}#top-bar-content a,#top-bar-social-alt a{color:#ffffff}#top-bar-content a:hover,#top-bar-social-alt a:hover{color:#fbf6ec}#top-bar-social li a{font-size:20px}#top-bar-social li a{padding:0 8px 0 8px}#top-bar-social li a{color:#ffffff}#top-bar-social li a .owp-icon use{stroke:#ffffff}#top-bar-social li a:hover{color:#d84024!important}#top-bar-social li a:hover .owp-icon use{stroke:#d84024!important}/* Footer Widgets CSS */#footer-widgets{background-color:#fdfaf3}#footer-widgets,#footer-widgets p,#footer-widgets li a:before,#footer-widgets .contact-info-widget span.oceanwp-contact-title,#footer-widgets .recent-posts-date,#footer-widgets .recent-posts-comments,#footer-widgets .widget-recent-posts-icons li .fa{color:#454545}#footer-widgets li,#footer-widgets #wp-calendar caption,#footer-widgets #wp-calendar th,#footer-widgets #wp-calendar tbody,#footer-widgets .contact-info-widget i,#footer-widgets .oceanwp-newsletter-form-wrap input[type="email"],#footer-widgets .posts-thumbnails-widget li,#footer-widgets .social-widget li a{border-color:#f5ecce}#footer-widgets .contact-info-widget .owp-icon{border-color:#f5ecce}#footer-widgets .footer-box a,#footer-widgets a{color:#000000}#footer-widgets .footer-box a:hover,#footer-widgets a:hover{color:#d84024}/* Footer Bottom CSS */#footer-bottom{background-color:#D04D31}#footer-bottom,#footer-bottom p{color:#ffffff}#footer-bottom a:hover,#footer-bottom #footer-bottom-menu a:hover{color:#ffdace}#ocn-cookie-wrap .ocn-btn{background-color:#d74124}#ocn-cookie-wrap .ocn-btn:hover{background-color:#e1654e}#ocn-cookie-wrap .ocn-icon svg{fill:#777}#ocn-cookie-wrap .ocn-icon:hover svg{fill:#333}/* Portfolio CSS */@media (max-width:480px){.portfolio-entries .portfolio-filters li{width:100%}}.portfolio-entries .portfolio-entry-thumbnail .overlay{background-color:rgba(0,0,0,0.4)}.portfolio-entries .portfolio-entry-thumbnail .portfolio-overlay-icons li a{border-color:rgba(255,255,255,0.4)}/* Typography CSS */body{font-family:Open Sans;font-size:15px;color:#252525;line-height:1.5}h1,h2,h3,h4,h5,h6,.theme-heading,.widget-title,.oceanwp-widget-recent-posts-title,.comment-reply-title,.entry-title,.sidebar-box .widget-title{font-family:Trebuchet MS,Helvetica,sans-serif;font-weight:600;color:#000000;line-height:1.5;letter-spacing:.4px}#top-bar-content,#top-bar-social-alt{font-family:Trebuchet MS,Helvetica,sans-serif;font-weight:400;font-size:13px;line-height:2;letter-spacing:.5px}#site-navigation-wrap .dropdown-menu >li >a,#site-header.full_screen-header .fs-dropdown-menu >li >a,#site-header.top-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.center-header #site-navigation-wrap .dropdown-menu >li >a,#site-header.medium-header #site-navigation-wrap .dropdown-menu >li >a,.oceanwp-mobile-menu-icon a{font-family:Trebuchet MS,Helvetica,sans-serif;font-size:15px;letter-spacing:.4px}#footer-bottom #copyright{font-size:14px}
+</style></head>
+
+<body class="page-template-default page page-id-17568 page-child parent-pageid-609 wp-custom-logo wp-embed-responsive oceanwp-theme dropdown-mobile default-breakpoint content-full-width content-max-width has-topbar page-header-disabled elementor-default elementor-kit-10168 elementor-page elementor-page-17568" itemscope="itemscope" itemtype="https://schema.org/WebPage">
+
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>
+	
+	<div id="outer-wrap" class="site clr">
+
+		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+
+		
+		<div id="wrap" class="clr">
+
+			
+
+<div id="top-bar-wrap" class="clr">
+
+	<div id="top-bar" class="clr container has-no-content">
+
+		
+		<div id="top-bar-inner" class="clr">
+
+			
+	<div id="top-bar-content" class="clr top-bar-left">
+
+		
+<div id="top-bar-nav" class="navigation clr">
+
+	<ul id="menu-top-bar" class="top-bar-menu dropdown-menu sf-menu"><li id="menu-item-15797" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15797"><a href="https://gobodhiyoga.com/secure/member" class="menu-link">My Account</a></li><li id="menu-item-21550" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21550"><a href="https://gobodhiyoga.com/secure/logout" class="menu-link">Logout</a></li><li id="menu-item-15798" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15798"><a href="mailto:hello@gobodhiyoga.com" class="menu-link">Email Us</a></li><li id="menu-item-15799" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15799"><a href="tel:18013725755" class="menu-link">Call +1 801.372.5755</a></li></ul>
+</div>
+
+		
+			
+	</div><!-- #top-bar-content -->
+
+
+
+<div id="top-bar-social" class="clr top-bar-right">
+
+	<ul class="clr" aria-label="Social links">
+
+		<li class="oceanwp-twitter"><a href="https://twitter.com/gobodhiyoga" aria-label="Twitter (opens in a new tab)" target="_blank" rel="noopener noreferrer"><i class=" fab fa-twitter" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-facebook"><a href="https://www.facebook.com/gobodhiyoga/" aria-label="Facebook (opens in a new tab)" target="_blank" rel="noopener noreferrer"><i class=" fab fa-facebook" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-instagram"><a href="https://www.instagram.com/gobodhiyoga/" aria-label="Instagram (opens in a new tab)" target="_blank" rel="noopener noreferrer"><i class=" fab fa-instagram" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-linkedin"><a href="https://www.linkedin.com/in/syl-carson-37464949" aria-label="LinkedIn (opens in a new tab)" target="_blank" rel="noopener noreferrer"><i class=" fab fa-linkedin" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-youtube"><a href="https://www.youtube.com/user/Sylbodhiyogi" aria-label="Youtube (opens in a new tab)" target="_blank" rel="noopener noreferrer"><i class=" fab fa-youtube" aria-hidden="true" role="img"></i></a></li><li class="oceanwp-email"><a href="mailto:he&#108;&#108;&#111;&#64;&#103;&#111;&#98;&#111;&#100;&#104;&#105;&#121;og&#97;&#46;&#99;o&#109;" aria-label="Send email (opens in your application)" target="_self"><i class=" icon-envelope" aria-hidden="true" role="img"></i></a></li>
+	</ul>
+
+</div><!-- #top-bar-social -->
+
+		</div><!-- #top-bar-inner -->
+
+		
+	</div><!-- #top-bar -->
+
+</div><!-- #top-bar-wrap -->
+
+
+			
+<header id="site-header" class="minimal-header clr fixed-scroll shrink-header" data-height="54" itemscope="itemscope" itemtype="https://schema.org/WPHeader" role="banner">
+
+	
+					
+			<div id="site-header-inner" class="clr container">
+
+				
+				
+
+<div id="site-logo" class="clr" itemscope itemtype="https://schema.org/Brand" >
+
+	
+	<div id="site-logo-inner" class="clr">
+
+		<a href="https://gobodhiyoga.com/" class="custom-logo-link" rel="home"><img width="169" height="35" src="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2021/10/bodhiyoga-logo-35h.png?fit=169%2C35&amp;ssl=1" class="custom-logo" alt="Bodhi Yoga™" srcset="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2021/10/bodhiyoga-logo-35h.png?fit=169%2C35&amp;ssl=1 1x, https://gobodhiyoga.com/wp-content/uploads/2021/10/bodhiyoga-logo-70h.png 2x" /></a>
+	</div><!-- #site-logo-inner -->
+
+	
+	
+</div><!-- #site-logo -->
+
+			<div id="site-navigation-wrap" class="clr">
+			
+			
+			
+			<nav id="site-navigation" class="navigation main-navigation clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" role="navigation" >
+
+				<ul id="menu-main" class="main-menu dropdown-menu sf-menu"><li id="menu-item-13954" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children dropdown menu-item-13954"><a href="https://gobodhiyoga.com/yoga/" class="menu-link"><span class="text-wrap">Yoga<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-22609" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17568 current_page_item menu-item-22609"><a href="https://gobodhiyoga.com/yoga/online/" class="menu-link"><span class="text-wrap">Online Classes</span></a></li></ul>
+</li><li id="menu-item-14123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14123"><a href="https://gobodhiyoga.com/lifestyle/" class="menu-link"><span class="text-wrap">Lifestyle<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-14124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14124"><a href="https://gobodhiyoga.com/lifestyle/in-good-taste-overview/" class="menu-link"><span class="text-wrap">In Good Taste Overview</span></a></li>	<li id="menu-item-14130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14130"><a href="https://gobodhiyoga.com/lifestyle/in-good-taste/" class="menu-link"><span class="text-wrap">In Good Taste</span></a></li>	<li id="menu-item-14128" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14128"><a href="https://gobodhiyoga.com/lifestyle/ayurveda-and-yoga-whats-your-dosh/" class="menu-link"><span class="text-wrap">Ayurveda and Yoga – What’s Your Dosha?</span></a></li>	<li id="menu-item-14129" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14129"><a href="https://gobodhiyoga.com/lifestyle/dosha-quiz-ayurveda/" class="menu-link"><span class="text-wrap">Dosha Quiz – Ayurveda</span></a></li></ul>
+</li><li id="menu-item-13955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-13955"><a href="https://gobodhiyoga.com/meditation/" class="menu-link"><span class="text-wrap">Meditation<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-13956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13956"><a href="https://gobodhiyoga.com/meditation-online-workshop/" class="menu-link"><span class="text-wrap">Learn to Meditate</span></a></li>	<li id="menu-item-19693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19693"><a href="https://gobodhiyoga.com/meditation/merkaba-labyrinth-workshop/" class="menu-link"><span class="text-wrap">Merkaba at the Labyrinth</span></a></li>	<li id="menu-item-17495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17495"><a href="https://gobodhiyoga.com/meditation/annual-winter-solstice/" class="menu-link"><span class="text-wrap">Winter Solstice</span></a></li>	<li id="menu-item-17150" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17150"><a href="https://gobodhiyoga.com/meditation/annual-new-year/" class="menu-link"><span class="text-wrap">New Year’s Day Meditation</span></a></li>	<li id="menu-item-17163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17163"><a href="https://gobodhiyoga.com/meditation/labyrinth-meditation/" class="menu-link"><span class="text-wrap">Syl’s Labyrinth</span></a></li></ul>
+</li><li id="menu-item-14125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-14125"><a href="https://gobodhiyoga.com/chakras/" class="menu-link"><span class="text-wrap">7 Chakras<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-14127" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14127"><a href="https://gobodhiyoga.com/?page_id=2865" class="menu-link"><span class="text-wrap">Z Bodhi Yoga Chakra Deck</span></a></li>	<li id="menu-item-14126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14126"><a href="https://gobodhiyoga.com/chakras/certification-1/" class="menu-link"><span class="text-wrap">7 Chakras Mind &#038; Body – Bodhi Yoga Chakra Therapy Deck</span></a></li></ul>
+</li><li id="menu-item-18363" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-18363"><a href="https://gobodhiyoga.com/astrology/" class="menu-link"><span class="text-wrap">Soul Weather™<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-18365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18365"><a href="https://gobodhiyoga.com/astrology/" class="menu-link"><span class="text-wrap">Soul Weather™ Private Session</span></a></li>	<li id="menu-item-14133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14133"><a href="https://gobodhiyoga.com/astrology/moon-cycle-calendar/" class="menu-link"><span class="text-wrap">Soul Weather Moon Calendar™</span></a></li>	<li id="menu-item-17507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17507"><a href="https://gobodhiyoga.com/astrology/phases-of-the-moon-workshop/" class="menu-link"><span class="text-wrap">Phases of the Moon Workshop</span></a></li>	<li id="menu-item-23740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23740"><a href="https://gobodhiyoga.com/astrology-online-event-mars-retrograde-2022/" class="menu-link"><span class="text-wrap">Mars Retro: Repurposing Your Stress Cycles</span></a></li>	<li id="menu-item-14132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14132"><a href="https://gobodhiyoga.com/astrology/pluto-return-of-united-states/" class="menu-link"><span class="text-wrap">Pluto Return of United States</span></a></li></ul>
+</li><li id="menu-item-16883" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-16883"><a href="https://gobodhiyoga.com/bodhi-utah-yoga-certifications/" class="menu-link"><span class="text-wrap">Get Certified<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-17137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17137"><a href="https://gobodhiyoga.com/yoga/certification/utah-yoga-teacher-training/" class="menu-link"><span class="text-wrap">Utah Yoga Teacher Training</span></a></li>	<li id="menu-item-19653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19653"><a href="https://gobodhiyoga.com/yoga/certification/partner-yoga-certification/utah-partner-yoga-training-syl-carson/" class="menu-link"><span class="text-wrap">Restorative Partner Yoga Certification</span></a></li>	<li id="menu-item-17171" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17171"><a href="https://gobodhiyoga.com/astrology/certification/" class="menu-link"><span class="text-wrap">Soul Weather™ Astrology Life Coach</span></a></li>	<li id="menu-item-17170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17170"><a href="https://gobodhiyoga.com/quan-tm-facilitator/" class="menu-link"><span class="text-wrap">Quan.TM Yoga Nidra Facilitator Certification</span></a></li>	<li id="menu-item-17138" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17138"><a href="https://gobodhiyoga.com/chakras/certification-2/" class="menu-link"><span class="text-wrap">7 Chakras Mind &#038; Body – Online Chakra Program with Syl Carson</span></a></li></ul>
+</li><li id="menu-item-16879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-16879"><a href="https://gobodhiyoga.com/about-bodhi-utah-yoga/" class="menu-link"><span class="text-wrap">About<i class="nav-arrow fa fa-angle-down" aria-hidden="true" role="img"></i></span></a>
+<ul class="sub-menu">
+	<li id="menu-item-16881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16881"><a href="https://gobodhiyoga.com/about-bodhi-utah-yoga/contact-us-2/" class="menu-link"><span class="text-wrap">Contact Us</span></a></li>	<li id="menu-item-16880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16880"><a href="https://gobodhiyoga.com/?page_id=196" class="menu-link"><span class="text-wrap">Z Bodhi Yoga Teachers</span></a></li>	<li id="menu-item-21579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21579"><a href="https://gobodhiyoga.com/yoga/yoga-etiquette/" class="menu-link"><span class="text-wrap">Bodhi Yoga Studio Etiquette During Covid-19</span></a></li>	<li id="menu-item-16882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16882"><a href="https://gobodhiyoga.com/about-bodhi-utah-yoga/faq/" class="menu-link"><span class="text-wrap">FAQ</span></a></li></ul>
+</li><li id="menu-item-24845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24845"><a href="https://gobdhiyoga.com/secure/login" class="menu-link"><span class="text-wrap">Login</span></a></li><li class="search-toggle-li" ><a href="javascript:void(0)" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><i class=" icon-magnifier" aria-hidden="true" role="img"></i></a></li></ul>
+<div id="searchform-dropdown" class="header-searchform-wrap clr" >
+	
+<form role="search" method="get" class="searchform" action="https://gobodhiyoga.com/">
+	<label for="ocean-search-form-1">
+		<span class="screen-reader-text">Search this website</span>
+		<input type="search" id="ocean-search-form-1" class="field" autocomplete="off" placeholder="Search" name="s">
+			</label>
+	</form>
+</div><!-- #searchform-dropdown -->
+
+			</nav><!-- #site-navigation -->
+
+			
+			
+					</div><!-- #site-navigation-wrap -->
+			
+		
+	
+				
+	
+	<div class="oceanwp-mobile-menu-icon clr mobile-right">
+
+		
+		
+		
+		<a href="#" class="mobile-menu"  aria-label="Mobile Menu">
+							<i class="fa fa-bars" aria-hidden="true"></i>
+								<span class="oceanwp-text">Menu</span>
+				<span class="oceanwp-close-text">Close</span>
+						</a>
+
+		
+		
+		
+	</div><!-- #oceanwp-mobile-menu-navbar -->
+
+	
+
+			</div><!-- #site-header-inner -->
+
+			
+<div id="mobile-dropdown" class="clr" >
+
+	<nav class="clr" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
+
+		<ul id="menu-main-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-13954"><a href="https://gobodhiyoga.com/yoga/">Yoga</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-17568 current_page_item menu-item-22609"><a href="https://gobodhiyoga.com/yoga/online/" aria-current="page">Online Classes</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14123"><a href="https://gobodhiyoga.com/lifestyle/">Lifestyle</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14124"><a href="https://gobodhiyoga.com/lifestyle/in-good-taste-overview/">In Good Taste Overview</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14130"><a href="https://gobodhiyoga.com/lifestyle/in-good-taste/">In Good Taste</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14128"><a href="https://gobodhiyoga.com/lifestyle/ayurveda-and-yoga-whats-your-dosh/">Ayurveda and Yoga – What’s Your Dosha?</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14129"><a href="https://gobodhiyoga.com/lifestyle/dosha-quiz-ayurveda/">Dosha Quiz – Ayurveda</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13955"><a href="https://gobodhiyoga.com/meditation/">Meditation</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13956"><a href="https://gobodhiyoga.com/meditation-online-workshop/">Learn to Meditate</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19693"><a href="https://gobodhiyoga.com/meditation/merkaba-labyrinth-workshop/">Merkaba at the Labyrinth</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17495"><a href="https://gobodhiyoga.com/meditation/annual-winter-solstice/">Winter Solstice</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17150"><a href="https://gobodhiyoga.com/meditation/annual-new-year/">New Year’s Day Meditation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17163"><a href="https://gobodhiyoga.com/meditation/labyrinth-meditation/">Syl’s Labyrinth</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-14125"><a href="https://gobodhiyoga.com/chakras/">7 Chakras</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14127"><a href="https://gobodhiyoga.com/?page_id=2865">Z Bodhi Yoga Chakra Deck</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14126"><a href="https://gobodhiyoga.com/chakras/certification-1/">7 Chakras Mind &#038; Body – Bodhi Yoga Chakra Therapy Deck</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18363"><a href="https://gobodhiyoga.com/astrology/">Soul Weather™</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18365"><a href="https://gobodhiyoga.com/astrology/">Soul Weather™ Private Session</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14133"><a href="https://gobodhiyoga.com/astrology/moon-cycle-calendar/">Soul Weather Moon Calendar™</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17507"><a href="https://gobodhiyoga.com/astrology/phases-of-the-moon-workshop/">Phases of the Moon Workshop</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23740"><a href="https://gobodhiyoga.com/astrology-online-event-mars-retrograde-2022/">Mars Retro: Repurposing Your Stress Cycles</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14132"><a href="https://gobodhiyoga.com/astrology/pluto-return-of-united-states/">Pluto Return of United States</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-16883"><a href="https://gobodhiyoga.com/bodhi-utah-yoga-certifications/">Get Certified</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17137"><a href="https://gobodhiyoga.com/yoga/certification/utah-yoga-teacher-training/">Utah Yoga Teacher Training</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19653"><a href="https://gobodhiyoga.com/yoga/certification/partner-yoga-certification/utah-partner-yoga-training-syl-carson/">Restorative Partner Yoga Certification</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17171"><a href="https://gobodhiyoga.com/astrology/certification/">Soul Weather™ Astrology Life Coach</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17170"><a href="https://gobodhiyoga.com/quan-tm-facilitator/">Quan.TM Yoga Nidra Facilitator Certification</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17138"><a href="https://gobodhiyoga.com/chakras/certification-2/">7 Chakras Mind &#038; Body – Online Chakra Program with Syl Carson</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-16879"><a href="https://gobodhiyoga.com/about-bodhi-utah-yoga/">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16881"><a href="https://gobodhiyoga.com/about-bodhi-utah-yoga/contact-us-2/">Contact Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16880"><a href="https://gobodhiyoga.com/?page_id=196">Z Bodhi Yoga Teachers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21579"><a href="https://gobodhiyoga.com/yoga/yoga-etiquette/">Bodhi Yoga Studio Etiquette During Covid-19</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16882"><a href="https://gobodhiyoga.com/about-bodhi-utah-yoga/faq/">FAQ</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24845"><a href="https://gobdhiyoga.com/secure/login">Login</a></li>
+<li class="search-toggle-li" ><a href="javascript:void(0)" class="site-search-toggle search-dropdown-toggle" aria-label="Search website"><i class=" icon-magnifier" aria-hidden="true" role="img"></i></a></li></ul><ul id="menu-top-bar-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15797"><a href="https://gobodhiyoga.com/secure/member">My Account</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21550"><a href="https://gobodhiyoga.com/secure/logout">Logout</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15798"><a href="mailto:hello@gobodhiyoga.com">Email Us</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15799"><a href="tel:18013725755">Call +1 801.372.5755</a></li>
+</ul>
+<div id="mobile-menu-search" class="clr">
+	<form aria-label="Search this website" method="get" action="https://gobodhiyoga.com/" class="mobile-searchform">
+		<input aria-label="Insert search query" value="" class="field" id="ocean-mobile-search-2" type="search" name="s" autocomplete="off" placeholder="Search" />
+		<button aria-label="Submit search" type="submit" class="searchform-submit">
+			<i class=" icon-magnifier" aria-hidden="true" role="img"></i>		</button>
+					</form>
+</div><!-- .mobile-menu-search -->
+
+	</nav>
+
+</div>
+
+			
+			
+		
+		
+</header><!-- #site-header -->
+
+
+			
+			<main id="main" class="site-main clr"  role="main">
+
+				
+	
+	<div id="content-wrap" class="container clr">
+
+		
+		<div id="primary" class="content-area clr">
+
+			
+			<div id="content" class="site-content clr">
+
+				
+				
+<article class="single-page-article clr">
+
+	
+<div class="entry clr" itemprop="text">
+
+	
+			<div data-elementor-type="wp-page" data-elementor-id="17568" class="elementor elementor-17568">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-319b51f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="319b51f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-630f6fe" data-id="630f6fe" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-30eead6 elementor-widget elementor-widget-heading" data-id="30eead6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">Bodhi Yoga Online Classes</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-41b39f0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="41b39f0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-05c85db" data-id="05c85db" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4bedeb6 elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="4bedeb6" data-element_type="widget" data-settings="{&quot;transition&quot;:&quot;fade&quot;,&quot;transition_speed&quot;:350,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.7.7 - 20-09-2022 */
+.elementor-slides .swiper-slide-bg{background-size:cover;background-position:50%;background-repeat:no-repeat;min-width:100%;min-height:100%}.elementor-slides .swiper-slide-inner{background-repeat:no-repeat;background-position:50%;position:absolute;top:0;left:0;bottom:0;right:0;padding:50px;margin:auto}.elementor-slides .swiper-slide-inner,.elementor-slides .swiper-slide-inner:hover{color:#fff;display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-slides .swiper-slide-inner .elementor-background-overlay{position:absolute;z-index:0;top:0;bottom:0;left:0;right:0}.elementor-slides .swiper-slide-inner .elementor-slide-content{position:relative;z-index:1;width:100%}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:35px;font-weight:700;line-height:1}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:17px;line-height:1.4}.elementor-slides .swiper-slide-inner .elementor-slide-description:not(:last-child),.elementor-slides .swiper-slide-inner .elementor-slide-heading:not(:last-child){margin-bottom:30px}.elementor-slides .swiper-slide-inner .elementor-slide-button{border:2px solid #fff;color:#fff;background:transparent;display:inline-block}.elementor-slides .swiper-slide-inner .elementor-slide-button,.elementor-slides .swiper-slide-inner .elementor-slide-button:hover{background:transparent;color:inherit;text-decoration:none}.elementor--v-position-top .swiper-slide-inner{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor--v-position-bottom .swiper-slide-inner{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}.elementor--v-position-middle .swiper-slide-inner{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor--h-position-left .swiper-slide-inner{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor--h-position-right .swiper-slide-inner{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor--h-position-center .swiper-slide-inner{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}body.rtl .elementor-widget-slides .elementor-swiper-button-next{left:10px;right:auto}body.rtl .elementor-widget-slides .elementor-swiper-button-prev{right:10px;left:auto}.elementor-slides-wrapper div:not(.swiper-slide)>.swiper-slide-inner{display:none}@media (max-width:767px){.elementor-slides .swiper-slide-inner{padding:30px}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:23px;line-height:1;margin-bottom:15px}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:13px;line-height:1.4;margin-bottom:15px}}</style>		<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
+				<div class="swiper-wrapper elementor-slides">
+										<div class="elementor-repeater-item-bb829f9 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"></div></div></div><div class="elementor-repeater-item-bc24873 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"></div></div></div><div class="elementor-repeater-item-98e77bd swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"></div></div></div>				</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d4bec5a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d4bec5a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-40c9b5b" data-id="40c9b5b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7d57ac0 elementor-widget elementor-widget-text-editor" data-id="7d57ac0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Our Vision is to create the space for a global yoga neighborhood community.  </p><p>Our primary aim is for you to feel as at home in our online yoga classes, as you would attending the Bodhi Yoga Center in person.  Our yoga classes are fresh, honest, intimate, and inspiring. Real people, no scripting or excessive staging.  We are simply a community of dedicated yoga students, mentors, and apprentices, participating in-person at The Bodhi Yoga Center, with you at home.</p><p>You will find here weekly yoga classes, quick-fix, and adaptive yoga, Ayurveda cooking video blog, online workshops, as well as life-changing yoga and energy healing online certifications.  <br /><br />So on whatever level you choose to participate; from our free online yoga class to unlimited online bodhi yoga class membership, to becoming certified to teach the techniques you learn here, welcome to the Bodhi Yoga neighborhood.  <br /><br />Join now and make yourself at home!</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-246069b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="246069b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8e0587d" data-id="8e0587d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b2a4273 elementor-widget elementor-widget-heading" data-id="b2a4273" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Bodhi Yoga™ Online</h1>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8406b8d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8406b8d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-433feea" data-id="433feea" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3ac5460 elementor-widget elementor-widget-text-editor" data-id="3ac5460" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2de99e4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2de99e4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ba72066" data-id="ba72066" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-f9df697 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f9df697" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5e19e6d" data-id="5e19e6d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0ba624b elementor-widget elementor-widget-oew-pricing-table" data-id="0ba624b" data-element_type="widget" data-widget_type="oew-pricing-table.default">
+				<div class="elementor-widget-container">
+			
+		<div class="oew-pricing-table oew-pricing-table-style-3">
+
+							<div class="oew-pricing-table-header" style="background-image: url(https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2018/06/IMG_3962.jpg?fit=1024%2C768&amp;ssl=1);">
+											<h3 class="oew-pricing-table-heading">Free</h3>
+						
+											<span class="oew-pricing-table-subheading">Always free online yoga classes</span>
+										</div>
+				
+			<div class="oew-pricing-table-prices">
+
+									<div class="oew-pricing-table-details">
+						
+						<span class="oew-pricing-table-period">Always free</span>
+					</div>
+								</div>
+
+							<ul class="oew-pricing-table-list">
+					
+						<li class="elementor-repeater-item-da00fce">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									Introduction to Yoga								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-ec642a6">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									Surya Namaskar (Sun Salutation)								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-5030df9">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #3								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-cbdc360">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #4								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-abf17d6">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #5								</span>
+
+														</li>
+										</ul>
+								<div class="oew-pricing-table-footer">
+											<a class="oew-pricing-table-button" href="#">Buy Now</a>
+												<div class="oew-pricing-table-additional-info">These less-than-20-minute sessions may be all you need. We think once you start, you'll want more!</div>
+										</div>
+				
+		</div>
+
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-216ee0c" data-id="216ee0c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cede342 elementor-widget elementor-widget-oew-pricing-table" data-id="cede342" data-element_type="widget" data-widget_type="oew-pricing-table.default">
+				<div class="elementor-widget-container">
+			
+		<div class="oew-pricing-table oew-pricing-table-style-3 featured">
+
+							<div class="oew-pricing-table-header" style="background-image: url(https://gobodhiyoga.com/wp-content/plugins/elementor/assets/images/placeholder.png);">
+											<h3 class="oew-pricing-table-heading">Beginning Bodhi Yoga™</h3>
+						
+											<span class="oew-pricing-table-subheading">Exclusive beginning yoga workshop</span>
+										</div>
+				
+			<div class="oew-pricing-table-prices">
+
+									<div class="oew-pricing-table-price">
+						
+						<span class="oew-pricing-table-original-price">
+							<span class="oew-pricing-table-currency oew-currency-before">&#36;</span>24.95						</span>
+					</div>
+										<div class="oew-pricing-table-details">
+						
+						<span class="oew-pricing-table-period">1st month  <strong>$9.95 / MONTH</strong></span>
+					</div>
+								</div>
+
+							<ul class="oew-pricing-table-list">
+					
+						<li class="elementor-repeater-item-69d1f8f">
+							<i aria-hidden="true" class="fas fa-praying-hands"></i>
+								<span >
+									Exclusive Introduction to Yoga Workshop								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-5080820">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #2								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-6e12fad">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #3								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-eefd0e8">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #4								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-032bdb7">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #5								</span>
+
+														</li>
+										</ul>
+								<div class="oew-pricing-table-footer">
+											<a class="oew-pricing-table-button" href="#">Buy Now</a>
+												<div class="oew-pricing-table-additional-info">This is text element</div>
+										</div>
+				
+				<div class="oew-pricing-table-ribbon oew-pricing-table-ribbon-3 oew-pricing-table-ribbon-right">
+					<div class="oew-pricing-table-ribbon-inner">Most Popular</div>
+				</div>
+				
+		</div>
+
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-bb1c42d" data-id="bb1c42d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-92e44de elementor-widget elementor-widget-oew-pricing-table" data-id="92e44de" data-element_type="widget" data-widget_type="oew-pricing-table.default">
+				<div class="elementor-widget-container">
+			
+		<div class="oew-pricing-table oew-pricing-table-style-3">
+
+							<div class="oew-pricing-table-header" style="background-image: url(https://gobodhiyoga.com/wp-content/plugins/elementor/assets/images/placeholder.png);">
+											<h3 class="oew-pricing-table-heading">Unlimited</h3>
+						
+											<span class="oew-pricing-table-subheading">Enter your description</span>
+										</div>
+				
+			<div class="oew-pricing-table-prices">
+
+									<div class="oew-pricing-table-price">
+						
+						<span class="oew-pricing-table-original-price">
+							<span class="oew-pricing-table-currency oew-currency-before">&#36;</span>9.95						</span>
+					</div>
+										<div class="oew-pricing-table-details">
+													<span class="oew-pricing-table-period-separator">/</span>
+							
+						<span class="oew-pricing-table-period">month</span>
+					</div>
+								</div>
+
+							<ul class="oew-pricing-table-list">
+					
+						<li class="elementor-repeater-item-6044600">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #1								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-039631a">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #2								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-a10b6fd">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #3								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-368f2a5">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #4								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-9c5c1ed">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #5								</span>
+
+														</li>
+										</ul>
+								<div class="oew-pricing-table-footer">
+											<a class="oew-pricing-table-button" href="#">Buy Now</a>
+												<div class="oew-pricing-table-additional-info">This is text element</div>
+										</div>
+				
+		</div>
+
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e9005dc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e9005dc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dfca945" data-id="dfca945" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3f752b8 elementor-widget elementor-widget-accordion" data-id="3f752b8" data-element_type="widget" data-widget_type="accordion.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-accordion{text-align:left}.elementor-accordion .elementor-accordion-item{border:1px solid #d4d4d4}.elementor-accordion .elementor-accordion-item+.elementor-accordion-item{border-top:none}.elementor-accordion .elementor-tab-title{margin:0;padding:15px 20px;font-weight:700;line-height:1;cursor:pointer;outline:none}.elementor-accordion .elementor-tab-title .elementor-accordion-icon{display:inline-block;width:1.5em}.elementor-accordion .elementor-tab-title .elementor-accordion-icon svg{width:1em;height:1em}.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-right{float:right;text-align:right}.elementor-accordion .elementor-tab-title .elementor-accordion-icon.elementor-accordion-icon-left{float:left;text-align:left}.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-closed{display:block}.elementor-accordion .elementor-tab-title .elementor-accordion-icon .elementor-accordion-icon-opened,.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-closed{display:none}.elementor-accordion .elementor-tab-title.elementor-active .elementor-accordion-icon-opened{display:block}.elementor-accordion .elementor-tab-content{display:none;padding:15px 20px;border-top:1px solid #d4d4d4}@media (max-width:767px){.elementor-accordion .elementor-tab-title{padding:12px 15px}.elementor-accordion .elementor-tab-title .elementor-accordion-icon{width:1.2em}.elementor-accordion .elementor-tab-content{padding:7px 15px}}.e-container>.elementor-widget-accordion{width:var(--container-widget-width,100%)}</style>		<div class="elementor-accordion" role="tablist">
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-6651" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-6651" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-plus"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-minus"></i></span>
+														</span>
+												<a class="elementor-accordion-title" href="">Why is Beginning Bodhi Yoga™ more expensive?</a>
+					</div>
+					<div id="elementor-tab-content-6651" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-6651"><p>Some of the classes in the Introduction to Yoga workshop are not available through any other membership. This helps beginning Bodhi Yogis focus on starting a yoga practice consistent with the Bodhi Yoga™ philosophy. When you sign up for the Introduction to Bodhi Yoga™ workshop, you will </p></div>
+				</div>
+							<div class="elementor-accordion-item">
+					<div id="elementor-tab-title-6652" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-6652" aria-expanded="false">
+													<span class="elementor-accordion-icon elementor-accordion-icon-left" aria-hidden="true">
+															<span class="elementor-accordion-icon-closed"><i class="fas fa-plus"></i></span>
+								<span class="elementor-accordion-icon-opened"><i class="fas fa-minus"></i></span>
+														</span>
+												<a class="elementor-accordion-title" href="">Accordion #2</a>
+					</div>
+					<div id="elementor-tab-content-6652" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-6652">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</div>
+				</div>
+								</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f9a58b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f9a58b9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-21e96a5" data-id="21e96a5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-761a0fe elementor-widget elementor-widget-oew-pricing-table" data-id="761a0fe" data-element_type="widget" data-widget_type="oew-pricing-table.default">
+				<div class="elementor-widget-container">
+			
+		<div class="oew-pricing-table oew-pricing-table-style-1">
+
+							<div class="oew-pricing-table-header">
+											<h3 class="oew-pricing-table-heading">Standard</h3>
+						
+											<span class="oew-pricing-table-subheading">Enter your description</span>
+										</div>
+				
+			<div class="oew-pricing-table-prices">
+
+									<div class="oew-pricing-table-price">
+						
+						<span class="oew-pricing-table-original-price">
+							<span class="oew-pricing-table-currency oew-currency-before">&#36;</span>79						</span>
+					</div>
+										<div class="oew-pricing-table-details">
+													<span class="oew-pricing-table-period-separator">/</span>
+							
+						<span class="oew-pricing-table-period">month</span>
+					</div>
+								</div>
+
+							<ul class="oew-pricing-table-list">
+					
+						<li class="elementor-repeater-item-14ee01d">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #1								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-e9b2411">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #2								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-7f0b046">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #3								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-99c8a42">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #4								</span>
+
+														</li>
+						
+						<li class="elementor-repeater-item-ecdde10">
+							<i aria-hidden="true" class="far fa-check-circle"></i>
+								<span >
+									List Item #5								</span>
+
+														</li>
+										</ul>
+								<div class="oew-pricing-table-footer">
+											<a class="oew-pricing-table-button" href="#">Buy Now</a>
+										</div>
+				
+		</div>
+
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		
+	
+</div>
+
+</article>
+
+				
+			</div><!-- #content -->
+
+			
+		</div><!-- #primary -->
+
+		
+	</div><!-- #content-wrap -->
+
+	
+
+	</main><!-- #main -->
+
+	
+	
+	
+		
+<footer id="footer" class="site-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter" role="contentinfo">
+
+	
+	<div id="footer-inner" class="clr">
+
+		
+
+<div id="footer-widgets" class="oceanwp-row clr">
+
+	
+	<div class="footer-widgets-inner container">
+
+				<div data-elementor-type="wp-post" data-elementor-id="16932" class="elementor elementor-16932">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-feb76dc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="feb76dc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0717ef8" data-id="0717ef8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-2ef3a67 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2ef3a67" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0fec2ad" data-id="0fec2ad" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e61e824 elementor-widget elementor-widget-image" data-id="e61e824" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.8 - 02-10-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="150" height="150" src="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2018/06/IMG_3962.jpg?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2018/06/IMG_3962.jpg?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2018/06/IMG_3962.jpg?resize=50%2C50&amp;ssl=1 50w, https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2018/06/IMG_3962.jpg?resize=55%2C55&amp;ssl=1 55w, https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2018/06/IMG_3962.jpg?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w, https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2018/06/IMG_3962.jpg?zoom=3&amp;resize=150%2C150&amp;ssl=1 450w" sizes="(max-width: 150px) 100vw, 150px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-519f518 elementor-widget elementor-widget-heading" data-id="519f518" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Bodhi Yoga™ Classes & Certifications</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b94d10f elementor-widget elementor-widget-text-editor" data-id="b94d10f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<ul><li>Utah Valley&#8217;s first yoga studio</li><li>Bodhi Yoga™ online yoga classes studio</li><li>Accredited Yoga Teacher Certification</li><li>Restorative Partner Yoga Certification</li><li>Mindfulness, lifestyle, Ayurveda programs</li><li>7 Chakras Facilitator Certification</li><li>Soul Weather™ Astrology &amp; Certification</li></ul>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5bfbe6a" data-id="5bfbe6a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4777aa2 elementor-widget elementor-widget-image" data-id="4777aa2" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="150" height="150" src="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2013/03/Syl-CottonTree-Photo.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2013/03/Syl-CottonTree-Photo.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2013/03/Syl-CottonTree-Photo.png?resize=50%2C50&amp;ssl=1 50w, https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2013/03/Syl-CottonTree-Photo.png?resize=55%2C55&amp;ssl=1 55w, https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2013/03/Syl-CottonTree-Photo.png?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w" sizes="(max-width: 150px) 100vw, 150px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-f13d1ce elementor-widget elementor-widget-heading" data-id="f13d1ce" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Syl Carson, Founder</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-36fbf1e elementor-widget elementor-widget-text-editor" data-id="36fbf1e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="https://gobodhiyoga.com/about-bodhi-utah-yoga/syl-carson-yoga/"><strong>Syl Carson</strong></a> is an internationally recognized teacher, healer, and poet. She founded Bodhi Yoga™ in 1998, after she was invited to share her personal yoga practice with several residents of Robert Redford’s Sundance Resort.  Shortly following, she opened the first yoga center in Utah Valley, located 45-miles south of Salt lake City.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a9754eb" data-id="a9754eb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7338cac elementor-widget elementor-widget-image" data-id="7338cac" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="150" height="150" src="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2012/11/aboutbodhi.png?resize=150%2C150&amp;ssl=1" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" srcset="https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2012/11/aboutbodhi.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2012/11/aboutbodhi.png?resize=50%2C50&amp;ssl=1 50w, https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2012/11/aboutbodhi.png?resize=55%2C55&amp;ssl=1 55w, https://i0.wp.com/gobodhiyoga.com/wp-content/uploads/2012/11/aboutbodhi.png?zoom=2&amp;resize=150%2C150&amp;ssl=1 300w" sizes="(max-width: 150px) 100vw, 150px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-6aa5824 elementor-widget elementor-widget-heading" data-id="6aa5824" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">The Bodhi Yoga™ Center</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1957e5c elementor-widget elementor-widget-text-editor" data-id="1957e5c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Dedicated exclusively to Yoga Teacher Certification and private sessions, we are located in the Clock Tower at Cottontree Square in Provo, Utah. Please  <a href="https://gobodhiyoga.com/contact">contact us</a> if you would like to visit this peaceful and sacred space by appointment.</p><p><a href="https://goo.gl/maps/Cq96KC9n3iXznA9D8">2230 N University Pkwy STE 2E</a><br />Provo, UT 894604<br />+1 801.372.5755</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		
+	</div><!-- .container -->
+
+	
+</div><!-- #footer-widgets -->
+
+
+
+<div id="footer-bottom" class="clr no-footer-nav">
+
+	
+	<div id="footer-bottom-inner" class="container clr">
+
+		
+		
+			<div id="copyright" class="clr" role="contentinfo">
+				<p style="padding-top: 12px"><a href="https://gobodhiyoga.com/anti-spam-policy">Anti-spam</a>   •   <a href="https://gobodhiyoga.com/external-links-policy">External Links</a>   •   <a href="https://gobodhiyoga.com/anti-spam-policy">DMCA Policy</a>   •   <a href="https://gobodhiyoga.com/online-privacy-policy">Privacy Policy</a>   •   <a href="https://gobodhiyoga.com/terms-and-conditions-of-use">Terms</a></p>
+<p>Copyright ©1998-2022 <a href="https://gobodhiyoga.com">White Mountain Yoga, LLC, dba Bodhi Yoga™</a>. All rights reserved.</p>			</div><!-- #copyright -->
+
+			
+	</div><!-- #footer-bottom-inner -->
+
+	
+</div><!-- #footer-bottom -->
+
+
+	</div><!-- #footer-inner -->
+
+	
+</footer><!-- #footer -->
+
+	
+	
+</div><!-- #wrap -->
+
+
+</div><!-- #outer-wrap -->
+
+
+
+<a aria-label="Scroll to the top of the page" href="#" id="scroll-top" class="scroll-top-right"><i class=" fa fa-angle-up" aria-hidden="true" role="img"></i></a>
+
+
+
+
+<link rel='stylesheet' id='oew-pricing-table-css'  href='https://gobodhiyoga.com/wp-content/plugins/ocean-elementor-widgets/assets/css/pricing-table/style.min.css?ver=6.0.3' media='all' />
+<link rel='stylesheet' id='tippy-css'  href='https://gobodhiyoga.com/wp-content/plugins/ocean-elementor-widgets/assets/css/vendors/tippy/tippy.css?ver=6.3.1' media='all' />
+<link rel='stylesheet' id='e-animations-css'  href='https://gobodhiyoga.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.7.8' media='all' />
+<script src='https://c0.wp.com/p/jetpack/11.4/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script id='ogb-script-js-extra'>
+var ogbScript = {"ajaxurl":"https:\/\/gobodhiyoga.com\/wp-admin\/admin-ajax.php","isRTL":""};
+</script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/ocean-gutenberg-blocks/assets/js/ogb-script.min.js?ver=1.1.1' id='ogb-script-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4' id='swv-js'></script>
+<script id='contact-form-7-js-extra'>
+var wpcf7 = {"api":{"root":"https:\/\/gobodhiyoga.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4' id='contact-form-7-js'></script>
+<script src='https://c0.wp.com/c/6.0.3/wp-includes/js/imagesloaded.min.js' id='imagesloaded-js'></script>
+<script id='oceanwp-main-js-extra'>
+var oceanwpLocalize = {"nonce":"24ed480164","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","ajax_url":"https:\/\/gobodhiyoga.com\/wp-admin\/admin-ajax.php","cookieName":"ocn_accepted","cookieTime":"2592000","cookiePath":"\/","cookieDomain":"","cache":"","secure":"1","reload":"no","overlay":"no","shareFacebook":"Share on Facebook","shareTwitter":"Tweet","sharePinterest":"Pin it","pswpDownload":"Download image","stickyChoose":"auto","stickyStyle":"shrink","shrinkLogoHeight":"30","stickyEffect":"none","hasStickyTopBar":"","hasStickyMobile":""};
+</script>
+<script src='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.3.5' id='oceanwp-main-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.3.5' id='oceanwp-drop-down-mobile-menu-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=3.3.5' id='oceanwp-drop-down-search-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=3.3.5' id='ow-magnific-popup-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=3.3.5' id='oceanwp-lightbox-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=3.3.5' id='ow-flickity-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=3.3.5' id='oceanwp-slider-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=3.3.5' id='oceanwp-scroll-effect-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=3.3.5' id='oceanwp-scroll-top-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.3.5' id='oceanwp-select-js'></script>
+<script id='learndash-front-js-extra'>
+var ldVars = {"postID":"17568","videoReqMsg":"You must watch the video before accessing this content","ajaxurl":"https:\/\/gobodhiyoga.com\/wp-admin\/admin-ajax.php"};
+</script>
+<script src='//gobodhiyoga.com/wp-content/plugins/sfwd-lms/themes/ld30/assets/js/learndash.js?ver=4.3.0.2' id='learndash-front-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/ocean-social-sharing/assets/js/social.js?ver=2.0.2' id='oss-social-share-script-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/ocean-cookie-notice/assets/js/cookie-notice.min.js' id='ocean-cookie-notice-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/ocean-portfolio/assets/vendors/PhotoSwipe/photoswipe.min.js?ver=2.0.7' id='op-photoswipe-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/ocean-portfolio/assets/vendors/PhotoSwipe/photoswipe-ui-default.min.js?ver=2.0.7' id='op-photoswipe-ui-default-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/ocean-elementor-widgets/assets/js/vendors/isotope.pkgd.min.js?ver=3.0.6' id='ow-isotop-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/ocean-portfolio/assets/js/portfolio.min.js?ver=2.0.7' id='op-script-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/ocean-sticky-header/assets/js/sticky-header.min.js' id='osh-js-scripts-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.7.8' id='elementor-webpack-runtime-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.7.8' id='elementor-frontend-modules-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='https://c0.wp.com/c/6.0.3/wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.8","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"page-transitions":true,"notes":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/gobodhiyoga.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":17568,"title":"Online%20%E2%80%93%20Bodhi%20Yoga%E2%84%A2","excerpt":"","featuredImage":false}};
+</script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.8' id='elementor-frontend-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/ocean-elementor-widgets/assets/js/vendors/popper.min.js?ver=6.0.3' id='popper-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/ocean-elementor-widgets/assets/js/vendors/tippy-bundle.umd.min.js?ver=6.0.3' id='tippy-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/ocean-elementor-widgets/assets/js/pricing-table.min.js?ver=6.0.3' id='oew-pricing-table-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.7.7' id='elementor-pro-webpack-runtime-js'></script>
+<script src='https://c0.wp.com/c/6.0.3/wp-includes/js/dist/vendor/regenerator-runtime.min.js' id='regenerator-runtime-js'></script>
+<script src='https://c0.wp.com/c/6.0.3/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/gutenberg/build/hooks/index.min.js?ver=da24a732bf5c2bfffa4b' id='wp-hooks-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/gutenberg/build/i18n/index.min.js?ver=6fdf6f309c3796e73a49' id='wp-i18n-js'></script>
+<script id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/gobodhiyoga.com\/wp-admin\/admin-ajax.php","nonce":"bcf20ccf32","urls":{"assets":"https:\/\/gobodhiyoga.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/gobodhiyoga.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/gobodhiyoga.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.7.7' id='elementor-pro-frontend-js'></script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.7.7' id='pro-elements-handlers-js'></script>
+<script src='https://c0.wp.com/c/6.0.3/wp-includes/js/underscore.min.js' id='underscore-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='https://c0.wp.com/c/6.0.3/wp-includes/js/wp-util.min.js' id='wp-util-js'></script>
+<script id='wpforms-elementor-js-extra'>
+var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+</script>
+<script src='https://gobodhiyoga.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.7.7.2' id='wpforms-elementor-js'></script>
+<script src='https://stats.wp.com/e-202243.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:11.4',blog:'102714768',post:'17568',tz:'-6',srv:'gobodhiyoga.com'} ]);
+	_stq.push([ 'clickTrackerInit', '102714768', '17568' ]);
+</script>
+
+	
+<div id="ocn-cookie-wrap" class="flyin">
+
+	
+	<div id="ocn-cookie-inner">
+
+		<p class="ocn-cookie-content">By continuing to use this website, you consent to the use of cookies in accordance with our Cookie Policy.</p>
+
+					<a class="button ocn-btn ocn-close" href="#">Accept</a>
+		
+	</div><!-- #ocn-cookie-inner -->
+
+</div><!-- #ocn-cookie-wrap -->
+</body>
+</html>
